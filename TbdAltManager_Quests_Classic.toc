@@ -1,5 +1,5 @@
 ## Name: TbdAltManagerQuests
-## Version: 0.1
+## Version: 0.2
 ## Interface: 11507
 ## Notes: Quest module for TbdAltManager
 ## SavedVariables: TbdAltManager_Quests
