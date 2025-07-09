@@ -1,0 +1,17 @@
+## Name: TbdAltManagerQuests
+## Version: 0.1
+## Interface: 11507
+## Notes: Quest module for TbdAltManager
+## SavedVariables: TbdAltManager_Quests
+## Dependencies: TbdAltManager, TbdWidgets
+## Group: TbdAltManager
+
+## X-Curse-Project-ID: 1303536
+
+Libs\json.lua
+
+QuestData_Classic.lua
+QuestAPI.lua
+
+TbdAltManagerQuests.lua
+TbdAltManagerQuests.xml
